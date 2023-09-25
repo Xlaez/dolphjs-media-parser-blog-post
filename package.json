@@ -1,0 +1,10 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@dolphjs/core": "^0.0.5-beta",
+    "express": "^4.18.2"
+  }
+}
